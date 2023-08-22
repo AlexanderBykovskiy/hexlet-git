@@ -1,2 +1,1 @@
-New text 2
-experiment with amend
+New info
